@@ -1,0 +1,5 @@
+Credentials cache: API:047166A6-1927-42C8-A896-B96F9CF70AED
+        Principal: obeaj@1337.MA
+
+  Issued                Expires               Principal
+Aug 24 10:51:05 2021  Aug 24 20:50:59 2021  krbtgt/1337.MA@1337.MA
